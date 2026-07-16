@@ -2,14 +2,13 @@
 
 Parses Biotage V-10 evaporator telemetry CSVs, detects the scientifically
 interesting high-change regions, loads everything into both **PostgreSQL**
-and **MongoDB**, and compares the two. Full explanation in `REPORT.md`.
+and **MongoDB**, and compares the two
 
 ## Layout
 
 ```
 v10_db_project/
 ├── README.md            this file
-├── REPORT.md            the full writeup — read this
 ├── requirements.txt
 ├── sql/schema.sql       Postgres DDL
 ├── scripts/
