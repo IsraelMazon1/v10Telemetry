@@ -1,0 +1,3 @@
+run_id,source_file,started_at,ended_at,duration_s,n_samples,sample_rate_hz
+initial_evap,v10_ullmann_initial_evap.csv,2026-06-02 16:14:16,2026-06-02 16:19:20,304.0,305,1.003
+lh_and_evap,v10_ullmann_gilson_lh_and_evap.csv,2026-06-02 17:26:14,2026-06-02 18:18:16,3122.0,3123,1.0

@@ -1,0 +1,7 @@
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+ruptures>=1.1        # change-point detection (PELT)
+psycopg2-binary>=2.9 # Postgres driver
+pymongo>=4.5         # MongoDB driver
+mongomock>=4.1       # optional: in-memory Mongo for testing without a server
