@@ -8,7 +8,7 @@ and **MongoDB**, and compares the two
 
 ```
 v10_db_project/
-├── README.md            this file
+├── README.md
 ├── requirements.txt
 ├── sql/schema.sql       Postgres DDL
 ├── scripts/
